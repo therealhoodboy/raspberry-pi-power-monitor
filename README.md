@@ -27,5 +27,5 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/raspberry-pi-power-monitor.git
+   git clone https://github.com/therealhoodboy/raspberry-pi-power-monitor.git
    cd raspberry-pi-power-monitor
